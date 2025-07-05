@@ -1,5 +1,14 @@
-- 👋 Hi, I’m rudresh sankpal a student looking for updating skills in Tech
-- 👀 I’m interested in Web development
-- 🌱 I’m a MERN stack Developer
-- 💞️ I’m looking to collaborate on projects which can make me learn more deeply
-- 📫 Email me on rudreshsankpal21@gmail.com for collaboration
+# 👋 Hey there, I’m Rudresh Sankpal
+
+🎓 A passionate student on a mission to master the **MERN Stack** and build real-world impactful web apps.
+
+🌐 I love turning ideas into clean, functional, and scalable products — especially those that **help people or solve real problems**.
+
+💻 Currently focused on:
+- Backend-heavy web applications (Node.js, Express, MongoDB)
+- Building fullstack projects to sharpen my job-readiness
+- Exploring PostgreSQL & DevOps tools through internship work
+
+🤝 I’m open to **collaborations** that challenge me to grow, contribute, and go deeper into real-world development.
+
+📫 Reach me at **rudreshsankpal21@gmail.com** – Let’s build something awesome together!
