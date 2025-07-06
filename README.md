@@ -40,4 +40,3 @@ Open to collaborating on **backend-heavy or impactful fullstack projects** that 
 
 ---
 
-> “Work silently. Let the code speak. Let the results echo.” 🧠💻🔥
