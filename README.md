@@ -5,7 +5,8 @@
 🛠️ Currently building solid backend projects like:
 - ✅ Simple CMS
 - ✅ Task Manager API
-- ✅ Polling System (in progress...)
+- ✅ Polling System 
+- ✅ Booking System  (In progress...)
 - ✅ Auth systems using JWT, sessions, and more!
 
 💡 Also working remotely as an SDE intern @Bluestock Fintech  
