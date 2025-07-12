@@ -7,10 +7,10 @@
 - ✅ Simple CMS
 - ✅ Task Manager API
 - ✅ Polling System 
-- ✅ Booking System  (In progress...)
-- ✅ Personal Finance Tracker (...Pending)
-- ✅ Secure Password Manager (...Pending)
-- ✅ Basic Banking System (...Pending)
+- ✅ Booking System 
+- ✅ Personal Finance Tracker (In progress...)
+- ✅ Secure Password Manager (In progress...)
+- ✅ Basic Banking System (In progress...)
 
 💡 Also working remotely as an SDE intern @Bluestock Fintech  
 📚 Learning PostgreSQL, advanced backend architecture, and DevOps fundamentals to **specialize in backend systems**
