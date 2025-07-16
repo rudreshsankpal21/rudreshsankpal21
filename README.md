@@ -8,7 +8,7 @@
 - ✅ Task Manager API
 - ✅ Polling System 
 - ✅ Booking System 
-- ✅ Personal Finance Tracker (...in process (ongoing))
+- ✅ Personal Finance Tracker 
 - ✅ Secure Password Manager (upcoming project....)
 - ✅ Basic Banking System (upcoming project....)
 
