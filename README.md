@@ -9,7 +9,7 @@
 - ✅ Polling System 
 - ✅ Booking System 
 - ✅ Personal Finance Tracker 
-- ✅ Secure Password Manager (ongoing...(in process))
+- ✅ Secure Password Manager
 - ✅ Basic Banking System (upcoming project....)
 
 💡 Also working remotely as an SDE intern @Bluestock Fintech  
