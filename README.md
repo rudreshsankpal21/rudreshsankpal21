@@ -2,7 +2,7 @@
 
 🎓 A 2nd-year Computer Science student who’s deeply focused on becoming a **Backend-focused MERN Stack Developer**
 
-🛠️ Currently building solid backend projects like:
+🛠️ Built some solid backend projects like:
 - ✅ Auth systems using JWT
 - ✅ Simple CMS
 - ✅ Task Manager API
@@ -10,7 +10,7 @@
 - ✅ Booking System 
 - ✅ Personal Finance Tracker 
 - ✅ Secure Password Manager
-- ✅ Basic Banking System (in progress...)
+- ✅ Basic Banking System 
 
 💡 Also working remotely as an SDE intern @Bluestock Fintech  
 📚 Learning PostgreSQL, advanced backend architecture, and DevOps fundamentals to **specialize in backend systems**
