@@ -10,7 +10,7 @@
 - ✅ Booking System 
 - ✅ Personal Finance Tracker 
 - ✅ Secure Password Manager
-- ✅ Basic Banking System (upcoming project....)
+- ✅ Basic Banking System (in progress...)
 
 💡 Also working remotely as an SDE intern @Bluestock Fintech  
 📚 Learning PostgreSQL, advanced backend architecture, and DevOps fundamentals to **specialize in backend systems**
