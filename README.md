@@ -1,46 +1,46 @@
-# 👋 Hey there, I’m Rudresh Sankpal
+# 🚀 Hey, I'm Rudresh Sankpal  
 
-🎓 A 2nd-year Computer Science student who’s deeply focused on becoming a **Backend-focused MERN Stack Developer**
+### 💻 Backend-Focused MERN Developer 
 
-🛠️ Built some solid backend projects like:
-- ✅ Auth systems using JWT
-- ✅ Simple CMS
-- ✅ Task Manager API
-- ✅ Polling System 
-- ✅ Booking System 
-- ✅ Personal Finance Tracker 
-- ✅ Secure Password Manager
-- ✅ Basic Banking System 
-
-💡 Also working remotely as an SDE intern @Bluestock Fintech  
-📚 Learning PostgreSQL, advanced backend architecture, and DevOps fundamentals to **specialize in backend systems**
+I'm not just coding — **I'm building a better version of myself every day.**  
+From starting with basic JavaScript to completing **8 backend projects in 27 days**,  
+I’ve learned that **consistency > motivation** every single time.
 
 ---
 
-## 🚀 What Drives Me
-- I want to build tools that **help real people** — especially those who hustle hard but lack support
-- I’m not just learning for marks — I’m learning to **solve problems, create value, and be job-ready before 2027**
+## 👀 **What I'm Into**
+- **Backend Mastery** — Node.js, Express.js, MongoDB  
+- **Building Projects That Matter** — I believe in learning by creating  
+- **Growth & Discipline** — Always aiming to level up (`rudresh += 1` daily)  
 
 ---
 
-## 🎯 Roadmap Ahead
-🔄 Keep improving backend architecture & clean code  
-⚙️ Learn Docker, CI/CD, and cloud deployment (AWS, Railway, etc.)  
-💬 Practice system design and API security  
-📈 Build freelance-ready tools & contribute to open source  
-💼 Land a solid backend role by or before 2027  
+## 🌱 **Current Grind**
+- Internship Project – **IPO Web App (Node + React + PostgreSQL)**  
+- Learning **Redux Toolkit** for next-level fullstack apps  
+- Building 8–10 **industry-style fullstack projects**  
 
 ---
 
-## 🤝 Let’s Collaborate
-Open to collaborating on **backend-heavy or impactful fullstack projects** that involve:
-- APIs
-- Auth systems
-- Dashboards
-- Real-time apps
-
-📫 Reach out at: **rudreshsankpal21@gmail.com**
+## 💡 **What I’ve Built So Far**
+- **8 Backend Projects:**  
+  - Authentication Systems (JWT & Sessions)  
+  - Notes API, Booking System  
+  - CMS, File Storage, Finance Tracker  
+  - Secure Password Manager & Basic Banking System  
+- **Other cool stuff:** Real-time APIs, Data Encryption, Scalable Architectures  
 
 ---
 
+## 💬 **Let’s Collaborate**
+I love teaming up for projects that challenge me and create real impact.  
+📩 **Email:** rudreshsankpal21@gmail.com  
 
+---
+
+## ⚡ **Fun Facts**
+- GitHub streak warrior (currently on fire 🔥)  
+- Anime & Football lover  
+
+
+### ✨ **“Yesterday was history, today is a mystery. Let’s solve the mystery and claim the prize.”
