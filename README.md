@@ -37,10 +37,3 @@ I love teaming up for projects that challenge me and create real impact.
 📩 **Email:** rudreshsankpal21@gmail.com  
 
 ---
-
-## ⚡ **Fun Facts**
-- GitHub streak warrior (currently on fire 🔥)  
-- Anime & Football lover  
-
-
-### ✨ **“Yesterday was history, today is a mystery. Let’s solve the mystery and claim the prize.”
