@@ -16,7 +16,7 @@ I’ve learned that **consistency > motivation** every single time.
 ---
 
 ## 🌱 **Current Grind**
-- Internship Project – **IPO Web App (Node + React + PostgreSQL)**  
+- Internship Project – **IPO Web App (Node + React + PostgreSQL)**  ✅
 - Learning **Redux Toolkit** for next-level fullstack apps  
 - Building 8–10 **industry-style fullstack projects**  
 
