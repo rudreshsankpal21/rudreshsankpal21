@@ -78,7 +78,7 @@ I'm always up for collaborating on impactful **backend-heavy** or **fullstack** 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?rudreshsankpal21&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
