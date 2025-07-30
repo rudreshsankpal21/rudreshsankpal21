@@ -12,7 +12,7 @@
 ## 👋 About Me
 
 - 🧑‍💻 A passionate **Backend Developer** focused on real-world impact
-- 🏫 Currently pursuing **B.Tech in Computer Science (2nd Year)**
+- 🏫 Currently pursuing **Bachelors Degree in Computer Science (2nd Year)**
 - 🔥 Believe in `consistency > motivation` and leveling up daily (`rudresh += 1`)
 - 🤝 Open to freelance work, collaboration, and meaningful dev connections
 
