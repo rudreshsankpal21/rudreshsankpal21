@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Consistency-31+days-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Commits-Everyday-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Commits-Regular-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-yellow?style=flat-square" />
 </p>
 
