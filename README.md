@@ -73,7 +73,7 @@ I'm always up for collaborating on impactful **backend-heavy** or **fullstack** 
 - 🏐 Big fan of football & anime (best dev combo, fight me 😤)
 - 🔥 30+ day GitHub commit streak and counting...
 
-> “Yesterday was history, today is a mystery. Let’s solve it, ship it ans win it.”
+> “Yesterday was history, today is a mystery. Let’s solve it, ship it and win it.”
 
 ---
 
