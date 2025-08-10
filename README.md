@@ -19,10 +19,9 @@
 ---
 
 ## 🚧 My Current Grind
-
-- 🎯 **Internship Project:** IPO Web App (Node.js + PostgreSQL + React)
+- 🎯(Main) :- Building 12 intermediate , production level backend projects
 - 📦 Learning **Redux Toolkit** for scalable frontends
-- 🏗️ Building **8–10 fullstack projects** (industry-grade, real-world inspired)
+- 🏗️ Will Build **8–10 fullstack projects** (industry-grade, real-world inspired)
 
 ---
 
