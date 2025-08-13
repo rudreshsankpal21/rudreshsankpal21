@@ -69,7 +69,7 @@ I'm always up for collaborating on impactful **backend-heavy** or **fullstack** 
 ## ⚡ Fun Zone
 
 - 🧠 Learning every day like a warrior
-- 🏐 Big fan of football & anime (best dev combo, fight me 😤)
+- 🏐 Big fan of football & anime (best dev combo, I Like to compete and Dominate)
 - 🔥 30+ day GitHub commit streak and counting...
 
 > “Yesterday was history, today is a mystery. Let’s solve it, ship it and win it.”
