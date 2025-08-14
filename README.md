@@ -70,7 +70,7 @@ I'm always up for collaborating on impactful **backend-heavy** or **fullstack** 
 
 - 🧠 Learning every day like a warrior
 - 🏐 Big fan of football & anime (best dev combo, I Like to compete and Dominate)
-- 🔥 30+ day GitHub commit streak and counting...
+- 🔥 What you see here is my passion
 
 > “Yesterday was history, today is a mystery. Let’s solve it, ship it and win it.”
 
