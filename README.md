@@ -49,6 +49,7 @@
 - 📚 **Currently learning:** Redux Toolkit, Advanced Express Patterns, PostgreSQL
 - 🐳 Next Goals: DSA, Docker, CI/CD, AWS (Deployment & Scaling)
 - 📈 Also diving into System Design, DevOps & Open Source soon!
+- 🎯 Building 12 intermediate , production level backend projects to improve myself
 
 ---
 
