@@ -19,13 +19,13 @@
 ---
 
 ## 🚧 My Current Grind
-- 🎯(Main) :- Building 12 intermediate , production level backend projects
+- 🎯 :- Building 12 intermediate , production level backend projects
 - 📦 Learning **Redux Toolkit** for scalable frontends
 - 🏗️ Will Build **8–10 fullstack projects** (industry-grade, real-world inspired)
 
 ---
 
-## 🔨 Projects Built (so far...)
+## 🔨 Projects Built
 
 ✅ **8 Backend Projects Completed:**
 - 🔐 Auth Systems (JWT, Sessions, Admin Middleware)
@@ -72,6 +72,7 @@ I'm always up for collaborating on impactful **backend-heavy** or **fullstack** 
 - 🧠 Learning every day like a warrior
 - 🏐 Big fan of football & anime (best dev combo, I Like to compete and Dominate)
 - 🔥 What you see here is my passion
+
 
 > “Yesterday was history, today is a mystery. Let’s solve it, ship it and win it.”
 
