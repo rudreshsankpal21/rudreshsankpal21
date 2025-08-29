@@ -47,7 +47,7 @@
 ## 🧠 Learning & Growth
 
 - 📚 **Currently learning:** Redux Toolkit, Advanced Express Patterns, PostgreSQL
-- 🐳 Next Goals: DSA, Docker, CI/CD, AWS (Deployment & Scaling)
+- 🐳 Next Goals: DSA in js, Docker, CI/CD, AWS (Deployment & Scaling)
 - 📈 Also diving into System Design, DevOps & Open Source soon!
 - 🎯 Building 12 intermediate , production level backend projects to improve myself
 
@@ -60,7 +60,8 @@ I'm always up for collaborating on impactful **backend-heavy** or **fullstack** 
 💡 Let's team up on:
 - APIs & Microservices  
 - Auth/Dashboard systems  
-- Real-time Web Apps  
+- Real-time Web Apps
+- Frontend Designs
 - Developer tools for freelancers & creators
 
 📬 Reach me at: **rudreshsankpal21@gmail.com**
