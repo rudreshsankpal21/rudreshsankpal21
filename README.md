@@ -14,11 +14,12 @@
 - 🧑‍💻 A passionate **Backend Developer** focused on real-world impact
 - 🏫 Currently pursuing **Bachelors Degree in Computer Science (2nd Year)**
 - 🔥 Believe in `consistency > motivation` and leveling up daily (`rudresh += 1`)
-- 🤝 Open to freelance work, collaboration, and meaningful dev connections
+- 🤝 Open to freelance work, collaborate, and meaningful dev connections
 
 ---
 
 ## 🚧 My Current Grind
+- learning DSA in C ( in college )
 - 🎯 :- Building 12 intermediate , production level backend projects
 - 📦 Learning **Redux Toolkit** for scalable frontends
 - 🏗️ Will Build **8–10 fullstack projects** (industry-grade, real-world inspired)
