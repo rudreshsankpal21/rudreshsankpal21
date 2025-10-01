@@ -48,7 +48,6 @@
 ## 🧠 Learning & Growth
 
 - 📚 **Currently learning:**
-- on a break cause of exams....👉👈
 - Redux Toolkit & DS in C(college work)
 - 🐳 Next Goals: DSA in js, Docker, CI/CD, AWS (Deployment & Scaling)
 - 📈 Also diving into System Design, DevOps & Open Source soon!
