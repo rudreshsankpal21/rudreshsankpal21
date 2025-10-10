@@ -14,7 +14,7 @@
 - 🧑‍💻 A passionate **Backend Developer** focused on real-world impact
 - 🏫 Currently pursuing **Bachelors Degree in Computer Science (2nd Year)**
 - 🔥 Believe in `consistency > motivation` and leveling up daily (`rudresh += 1`)
-- 🤝 Open to freelance work, collaborate, and meaningful dev connections
+- 🤝 Open to freelance work, collaborate, and meaningful dev projects & connections
 
 ---
 
