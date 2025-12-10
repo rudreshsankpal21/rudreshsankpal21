@@ -19,7 +19,7 @@
 ---
 
 ## 🚧 My Current Grind
-- learning DSA in C ( in college )
+- Doing an internship in React-Native and pushing to learn php in backend
 - 🎯 :- Building 12 intermediate , production level backend projects
 - 📦 Learning **Redux Toolkit** for scalable frontends
 - 🏗️ Will Build **8–10 fullstack projects** (industry-grade, real-world inspired)
