@@ -20,6 +20,7 @@ I’m a **backend-focused developer** who enjoys turning ideas into **real, usab
 - 🧠 Strong believer in `consistency > motivation`  
 - 📚 Avid **book reader** — I enjoy learning through books as much as code  
 - 🎯 Long-term vision: **build products that give freedom, not just income**
+-    worked on 4 production apps (client + internal) and 1 paid personal project.
 
 I prefer depth over noise and **progress over perfection**.
 
