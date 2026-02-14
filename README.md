@@ -1,92 +1,122 @@
 <h1 align="center">🚀 Rudresh Sankpal</h1>
 <h3 align="center">
-Backend-Focused MERN Stack Developer | React Native App Developer | CS Undergraduate
+Mobile & Backend Product Developer | React Native + MERN | CS Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Consistency-Daily%20Growth-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Builder-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Build-Ship-Repeat-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Real%20World%20Apps-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-yellow?style=flat-square" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Who I Am
 
-I’m a **backend-focused developer** who enjoys turning ideas into **real, usable products**.
+I’m a **product-focused developer** who enjoys turning real business problems into working mobile & backend systems.
 
-- 🏫 2nd Year **Computer Science** student  
-- 🏢 Working from office as a **React Native Intern**  
-- 🧠 Strong believer in `consistency > motivation`  
-- 📚 Avid **book reader** — I enjoy learning through books as much as code  
-- 🎯 Long-term vision: **build products that give freedom, not just income**
--    worked on 4 production apps (client + internal) and 1 paid personal project.
+Not tutorial projects — **production apps, real APIs, real users, real delivery.**
 
-I prefer depth over noise and **progress over perfection**.
+- 🏫 2nd Year Computer Science Student  
+- 🏢 React Native Intern (office-based, production apps)  
+- 📱 Mobile + Backend builder  
+- 🧠 Believe in: `Consistency > Motivation > Hype`  
+- 📚 Book reader & deep learner  
+- 🎯 Goal: Build useful products that create **impact + freedom**
 
----
-
-## 🧠 Current Focus
-
-- 🏗️ Building **production-level mobile applications** using React Native  
-- 🔗 Integrating real-world **backend APIs** (auth, data, dashboards)  
-- 🧪 Debugging, testing, and refining apps for real users  
-- 🚀 Learning the complete app lifecycle:
-  - Development  
-  - API integration  
-  - Testing  
-  - Deployment fundamentals  
-
-Every day is about getting **1% better**.
+> I optimize for shipping, learning, and long-term growth.
 
 ---
 
-## 🔨 Projects & Experience
+## 🧠 What I’m Doing Right Now
 
-### ✅ Backend Projects
-- 🔐 Authentication Systems (JWT, Sessions, Role-based Access)
+- 📱 Building **production React Native apps**
+- 🔗 Integrating complex backend APIs
+- 🧪 Debugging & stabilizing real user flows
+- 🧱 Designing feature + data flow before coding
+- ⚙️ Learning architecture & production patterns
+- 🚀 Understanding full app lifecycle:
+  - idea → build → integrate → test → ship → iterate
+
+Daily focus: **1% deeper, not just 1% more.**
+
+---
+
+## 🏗️ Real-World Experience
+
+### 📱 Production App Work
+- ✅ Worked on **4 production apps** (client + internal)
+- ✅ Built & delivered **paid cafe app**
+- ✅ Integrated 10+ real APIs across projects
+- ✅ Built features under deadline pressure
+- ✅ Handled bug cycles & production fixes
+- ✅ Worked on filters, dashboards, admin flows
+- ✅ App testing + release build handling
+
+This is hands-on delivery — not sandbox coding.
+
+---
+
+## 🔨 Backend & System Projects
+
+- 🔐 Auth Systems — JWT, Sessions, Role Access
 - 🗂️ CMS & Notes APIs
-- 📅 Booking System & Task Manager
+- 📅 Booking & Task Systems
 - 💸 Personal Finance Tracker
 - 🔒 Secure Password Manager
-- 🏦 Basic Banking System (Accounts & Transactions)
+- 🏦 Basic Banking System
+- 📦 File & Data APIs
 
-### 📱 Apps & Practical Work
-- ☕ Cafe App (real-world client use case)
-- 🎙️ **VoxDo** – Voice-to-Text Todo App (in progress)
-- 🏢 Office Project: React Native app with **full API integration** and real workflows
-
-🔗 **GitHub:** https://github.com/rudreshsankpal21
+Focus: **clean logic + usable systems**
 
 ---
 
-## 📚 Tech Stack & Learning
+## 🧰 Tech Stack
 
-**Currently Using**
+**Core**
 - React Native
-- Node.js & Express
-- MongoDB, MySQL
+- Node.js
+- Express
+- MongoDB
+- MySQL
 - REST APIs
+
+**Workflow**
 - Git & GitHub
 - Postman
-
-**Actively Learning**
-- Redux Toolkit
-- PHP (backend exposure)
-- Data Structures & Algorithms
-- Deployment & DevOps basics
-
-I focus on **strong fundamentals and clean architecture**.
+- API testing
+- Debugging
+- Production builds
 
 ---
 
-## 🤝 Collaboration
+## 📈 Currently Leveling Up In
 
-I’m open to collaborating on:
-- Backend-heavy projects
-- Mobile applications
-- API development & integrations
-- Tools for creators, freelancers, and small businesses
+- Redux Toolkit
+- App architecture patterns
+- Error handling & retry logic
+- Caching & offline handling
+- Performance basics
+- DSA fundamentals
+- Deployment pipelines
+- DevOps foundations
+
+Learning with **implementation-first approach**.
+
+---
+
+## 🤝 Collaboration & Freelance Direction
+
+Interested in building:
+
+- 📱 Business mobile apps
+- 🔗 API-driven systems
+- 🧾 Admin dashboards
+- 🏪 Small business tools
+- ⚙️ Utility & workflow apps
+
+I like projects that **solve real problems**, not just look good.
 
 📬 **Email:** rudreshsankpal21@gmail.com
 
@@ -94,10 +124,11 @@ I’m open to collaborating on:
 
 ## ⚡ Beyond Code
 
-- 📖 Love reading books (technology, mindset, growth)
-- 🏐 Football keeps me competitive and disciplined
-- 🧠 I enjoy deep work and long-term thinking
+- 📖 Book reader (tech + mindset + growth)
+- 🏐 Football — competition & discipline
+- 🧠 Deep work > noisy work
+- 🧭 Long-term thinker
 
-> “I’m not chasing speed. I’m building something that lasts.”
+> “I don’t chase trends — I build capability.”
 
 ---
