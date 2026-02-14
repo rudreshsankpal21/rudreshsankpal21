@@ -4,7 +4,6 @@ Mobile & Backend Product Developer | React Native + MERN | CS Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Ship-Repeat-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Real%20World%20Apps-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-yellow?style=flat-square" />
