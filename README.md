@@ -89,7 +89,7 @@ Goal:
 - 🔒 Secure Password Manager
 - 🏦 Banking System
 - 📦 File & Data APIs
-- 🎤 VoxDo — Voice-based Todo App (in progress)
+- 🎤 Cafe-App — An App for cafe owners to manage their cafe (in progress)
 
 Focus:
 > clean logic + usable systems + practical architecture
