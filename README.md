@@ -5,7 +5,6 @@ Full-Stack Product Developer (React Native + MERN) | Production App Builder | CS
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Ship-Improve-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Real%20World%20Apps-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Growth-System%20Thinking-yellow?style=flat-square" />
