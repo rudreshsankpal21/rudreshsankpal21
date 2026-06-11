@@ -1,7 +1,5 @@
 <h1 align="center">🚀 Rudresh Sankpal</h1>
 
-<h1 align="center">🚀 Rudresh Sankpal</h1>
-
 <h3 align="center">
 Full-Stack Product Developer | React Native • Next.js • Node.js • MySQL
 </h3>
