@@ -1,175 +1,179 @@
 <h1 align="center">🚀 Rudresh Sankpal</h1>
 
+<h1 align="center">🚀 Rudresh Sankpal</h1>
+
 <h3 align="center">
-Full-Stack Product Developer (React Native + MERN) | Production App Builder | CS Undergraduate
+Full-Stack Product Developer | React Native • Next.js • Node.js • MySQL
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Product%20Builder-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Real%20World%20Apps-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Growth-System%20Thinking-yellow?style=flat-square" />
+Building real products, not tutorial projects.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Product%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-Production%20Apps-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Growth-System%20Design-orange?style=flat-square" />
 </p>
 
 ---
 
-# 👋 Who I Am
+# 👋 About Me
 
-I’m a developer focused on building **real-world mobile & backend systems**.
+I'm a Final Year Computer Science student and Full-Stack Product Developer focused on building software that solves real business problems.
 
-Not tutorial projects —  
-production apps, APIs, deployment, debugging, iteration, and delivery.
+My work revolves around:
 
-Currently transitioning from:
-> Intern → Independent Full-Stack Product Builder
+* 📱 Mobile Applications
+* 🌐 Full-Stack Web Applications
+* 🔗 APIs & Backend Systems
+* 🏗️ Product Architecture
+* 🚀 Deployment & Delivery
 
----
-
-# 🧠 Current Focus
-
-- 📱 Building production React Native applications
-- 🔗 Integrating and designing backend APIs
-- ⚙️ Understanding full-stack app architecture
-- 🧪 Debugging & stabilizing real user flows
-- 🚀 Learning system design & scalable thinking
-- 🏗️ Building apps from:
-  - idea → backend → frontend → deploy → improve
-
-Daily goal:
-> 1% deeper understanding, not just more code.
+I learn by building, shipping, debugging, and improving real products.
 
 ---
 
-# 🏗️ Real-World Experience
+# 🚀 What I'm Working On
 
-## 📱 Production App Development
+* Building production React Native applications
+* Developing full-stack business software
+* Building an Ecommerce Platform with Next.js + MySQL
+* Designing scalable backend systems
+* Learning System Design & Architecture
+* Improving DSA and Problem Solving
 
-- ✅ Worked on 4+ production apps (client + internal)
-- ✅ Built & delivered paid cafe application
-- ✅ Integrated 10+ real-world APIs
-- ✅ Worked on dashboards, filters, admin flows
-- ✅ Handled production bug fixing & testing
-- ✅ Published Android apps to Play Store
-- ✅ Worked in startup-like 2 developer environment
-- ✅ Handling WFH production workflow & feature delivery
+Current philosophy:
 
----
-
-# ⚙️ Full-Stack Direction
-
-Currently expanding from:
-- React Native frontend
-to:
-- full-stack product development
-
-### Backend Experience
-- Node.js + Express
-- MongoDB + MySQL
-- REST APIs
-- Authentication Systems
-- CRUD APIs
-- API architecture understanding
-
-### Currently Exploring
-- PHP backend development
-- System Design
-- Deployment pipelines
-- DevOps fundamentals
-
-Goal:
-> Become a developer who can independently build and ship complete products.
+> Build → Ship → Learn → Improve
 
 ---
 
-# 🔨 Backend & System Projects
+# 💼 Professional Experience
 
-- 🔐 JWT/Auth Systems
-- 🗂️ CMS & Notes APIs
-- 📅 Booking & Task Systems
-- 💸 Personal Finance Tracker
-- 🔒 Secure Password Manager
-- 🏦 Banking System
-- 📦 File & Data APIs
-- 🎤 Cafe-App — An App for cafe owners to manage their cafe (in progress)
+### Production Development
 
-Focus:
-> clean logic + usable systems + practical architecture
+✅ Worked on multiple production applications
 
----
+✅ Delivered a paid Cafe Management App
 
-# 🧰 Tech Stack
+✅ Integrated large-scale REST APIs
 
-## Core
-- React Native
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- REST APIs
-- PHP (learning for production flexibility)
+✅ Published Android applications
 
-## Workflow
-- Git & GitHub
-- Postman
-- API Testing
-- Debugging
-- Android Release Builds
-- Play Store Publishing
+✅ Managed production bug fixing
+
+✅ Worked directly with founders & business requirements
+
+✅ Built admin dashboards & workflow systems
+
+✅ Experience in startup-style development environments
 
 ---
 
-# 📈 Currently Leveling Up In
+# 🛠️ Tech Stack
 
-- Full-stack architecture thinking
-- System design fundamentals
-- Error handling & retry patterns
-- API optimization
-- Caching & offline handling
-- DSA fundamentals
-- Deployment workflows
-- AI-assisted development with strong understanding
+## Frontend
+
+* React Native
+* React
+* Next.js
+* JavaScript
+* HTML
+* CSS
+
+## Backend
+
+* Node.js
+* Express.js
+* PHP
+* REST APIs
+
+## Databases
+
+* MongoDB
+* MySQL
+
+## Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* Vercel
+* Play Store Console
 
 ---
 
-# 🤝 Freelance & Collaboration Direction
+# 🔨 Projects & Systems
 
-Interested in building:
+### Mobile Apps
 
-- 📱 Mobile apps
-- 🔗 API-driven systems
-- 🧾 Admin dashboards
-- 🏪 Small business tools
-- ⚙️ Utility & workflow applications
+* Production Business Apps
+* Gold Shop Application
+* Workflow Management System
+* Cafe Management App
 
-I enjoy building products that:
-> solve real problems and are actually usable.
+### Backend Systems
+
+* Authentication Systems
+* CMS APIs
+* Booking Systems
+* Finance Tracker
+* Password Manager
+* Banking System
+* File Management APIs
+
+### Web Development
+
+* Next.js Business Website
+* Ecommerce Platform (Ongoing)
 
 ---
 
-# 📊 Current Journey Snapshot
+# 📈 Journey Snapshot
 
-- 💻 1000+ GitHub commits in first 4 months of 2026
-- 🚀 Real production app experience before graduation
-- 🧠 Learning through pressure, shipping & iteration
-- ⚡ Balancing:
-  - college
-  - work
-  - learning
-  - product building
+* 🎓 Final Year Computer Science Student
+* 📊 1500+ GitHub Contributions in 2026
+* 🚀 Production App Experience Before Graduation
+* 🌐 Successfully Deployed Live Websites
+* 📱 Published Android Applications
+* 🔗 Integrated 50+ API Endpoints Across Projects
+* 💼 Working Towards Independent Product Development
+
+---
+
+# 🎯 Current Growth Areas
+
+* Data Structures & Algorithms
+* Backend Architecture
+* System Design
+* Database Design
+* DevOps Fundamentals
+
+---
+
+# 🤝 Open To
+
+* Full-Stack Development
+* Mobile App Development
+* API Development
+* Startup Projects
+* Business Software Solutions
 
 ---
 
 # ⚡ Beyond Code
 
-- 📖 Books (technology + mindset + growth)
-- 🏐 Football — discipline & competition
-- 🧠 Deep work > noisy work
-- 🧭 Long-term builder mindset
+* 📖 Reading
+* ⚽ Football
+* 🧠 Deep Work
+* 🚀 Building Useful Products
 
-> “I don’t chase trends — I build capability.”
+> "I don't chase trends. I build capability."
 
 ---
 
 # 📬 Contact
 
-📧 rudreshsankpal21@gmail.com
+📧 [rudreshsankpal21@gmail.com](mailto:rudreshsankpal21@gmail.com)
